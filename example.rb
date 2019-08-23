@@ -47,7 +47,7 @@
       end
 
       def withdraw_balance
-        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'THis is better'
         puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
         puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
         puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
