@@ -46,4 +46,15 @@
         menu
       end
 
+      def withdraw_balance
+        puts 'THis is better'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+        puts 'a;lsdjfa;lsdjflkajsdlf;kaj'
+      end
+
 intro
